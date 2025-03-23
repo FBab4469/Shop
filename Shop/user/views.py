@@ -6,8 +6,3 @@ def register(request):
         pass
     pass
 
-def login(request):
-    if request.method == 'POST':
-        pass
-    pass
-
